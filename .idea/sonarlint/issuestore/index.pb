@@ -1,0 +1,15 @@
+
+C
+src/advent/day3.txt,d\a\da2356bcf828ace7e4468c02de2fbd04da740cb4
+C
+src/advent/day1.txt,1\a\1ae6f43fae90cea01f3c504f56840d5c3eb00aac
+C
+src/advent/day2.txt,8\0\8007a1b4802f7cb426d52ffa8176d543a01a2205
+D
+src/advent/Day1.java,9\5\954f6a8400f1f421117796d90bcb59a0107885b3
+D
+src/advent/Day3.java,7\8\78350b50ebedc1bcd43ca79131a5757c36ae6fbc
+D
+src/advent/Day2.java,8\f\8fe42abb5b3ccd41577a65b2f9382af64086617f
+@
+adventofcode.ipr,9\9\992a1219ce7f317c73f8026e6e7f89cf76786271
