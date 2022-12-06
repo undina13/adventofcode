@@ -13,3 +13,7 @@ D
 src/advent/Day2.java,8\f\8fe42abb5b3ccd41577a65b2f9382af64086617f
 @
 adventofcode.ipr,9\9\992a1219ce7f317c73f8026e6e7f89cf76786271
+C
+src/advent/day4.txt,e\b\eb03695ff65dab0851cb02db1d75718ba7c128a4
+D
+src/advent/Day4.java,6\c\6c6acc3757458fb72375bc2376ec10453c5699fa
