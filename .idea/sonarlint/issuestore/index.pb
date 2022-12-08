@@ -17,3 +17,11 @@ C
 src/advent/day4.txt,e\b\eb03695ff65dab0851cb02db1d75718ba7c128a4
 C
 src/advent/day5.txt,3\c\3c22e255b56557d3608137c8b5c448787556626c
+C
+src/advent/day6.txt,a\6\a68fbdecb64d353bc86458245883870d8ce631f9
+D
+src/advent/Day6.java,0\6\06b7dd57d6c57c44529b2f081f3e9875f3fb227f
+D
+src/advent/Day5.java,f\1\f160b15527061fbe284bd150a8ea724240758eed
+D
+src/advent/Day4.java,6\c\6c6acc3757458fb72375bc2376ec10453c5699fa
